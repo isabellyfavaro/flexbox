@@ -1,0 +1,72 @@
+.quadrado {
+width: 50px;
+height: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-weight: bold;
+}
+
+.q1 {
+background-color: #63b3bb;
+}
+.q2 {
+background-color: #1d2b42;
+}
+.q3 {
+background-color: #ea145b;
+}
+.q4 {
+background-color: #ebb362;
+}
+
+.container1 {
+background-color: #d5d5d5;
+display: flex;
+justify-content: flex-start;
+}
+
+.container2 {
+background-color: #d5d5d5;
+display: flex;
+justify-content: flex-end;
+}
+
+.container3 {
+background-color: #d5d5d5;
+display: flex;
+justify-content: center;
+}
+
+.container4 {
+background-color: #d5d5d5;
+display: flex;
+justify-content: space-between;
+}
+
+.container5 {
+background-color: #d5d5d5;
+display: flex;
+justify-content: space-around;
+}
+
+.container6 {
+background-color: #d5d5d5;
+display: flex;
+justify-content: space-evenly;
+}
+
+.container-exercicioB {
+background-color: #d5d5d5;
+display: flex;
+justify-content: flex-start;
+flex-direction: column-reverse;
+}
+
+.container-desafio {
+background-color: #d5d5d5;
+display: flex;
+justify-content: flex-start;
+}
+
+
